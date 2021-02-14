@@ -21,3 +21,7 @@ body {
   font-weight:bolder;
   display:inline-block;
 }
+.submit {
+  font-size:24px;
+  color:#c20404;
+}
