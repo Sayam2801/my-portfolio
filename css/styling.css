@@ -1,0 +1,23 @@
+body {
+  background-image:url("https://i.ytimg.com/vi/uNCr7NdOJgw/maxresdefault.jpg");
+  width:669px;
+  margin:0;
+}
+.temp {
+  font-size:24px;
+  color:#b5108f;
+}
+.common:hover {
+  font-size:24px;
+  color:#0b4004;
+  font-weight:bolder;
+  border:2px solid grey;
+  border-style: solid;
+  border-color: #e3570b;
+}
+.common {
+  color:#560acf;
+  font-size:24px;
+  font-weight:bolder;
+  display:inline-block;
+}
